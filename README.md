@@ -1,2 +1,3 @@
-# Data---Analysis---Dashboard
-Developed an interactive HR Analytics Dashboard using Power BI, DAX, and Power Query to analyze employee data and identify key workforce trends. The dashboard provides insights into employee attrition, department-wise performance, salary , age groups, gender distribution, job roles, job satisfaction, and employee experience.
+# HR-Data-Analysis
+# Project Objective
+To develop an interactive Power BI HR Analytics Dashboard that transforms employee data into actionable insights on workforce composition, attrition, job satisfaction, and retention patterns to support data-driven HR decision-making.
